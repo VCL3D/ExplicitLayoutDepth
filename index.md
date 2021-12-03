@@ -49,13 +49,8 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 ## In-the-wild
 
-<img width=360 src="./assets/images/random1.jpg"/><img src="./assets/images/wild0.png"/>
+<img width=360 src="./assets/images/wild0.png"/>
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/Iug1B+spin"></iframe>
 
-<img width=350 src="./assets/images/random2.jpg"/><img src="./assets/images/random2.gif"/>
-
-<img width=350 src="./assets/images/s3d3.jpg"/><img src="./assets/images/s3d3.gif"/>
-
-<img width=350 src="./assets/images/s3d4.jpg"/><img src="./assets/images/s3d4.gif"/>
-
+<img width=360 src="./assets/images/wild1.png"/>
