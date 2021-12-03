@@ -25,31 +25,17 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 # Results
 
-## Matterport3D
-
-<img width=350 src="./assets/images/m3d1.jpg"><img src="./assets/images/m3d1.gif">
-
-<img width=350 src="./assets/images/m3d2.jpg"><img src="./assets/images/m3d2.gif">
-
-<img width=350 src="./assets/images/m3d3.jpg"><img src="./assets/images/m3d3.gif">
-
 ## Sun360
 
 <img width=640 src="./assets/images/sun1.png">
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/VkKF0"></iframe>
 
-<img width=350 src="./assets/images/sun2.jpg"><img src="./assets/images/sun2.gif">
+<img width=640 src="./assets/images/sun2.png">
 
-<img width=350 src="./assets/images/sun3.jpg"><img src="./assets/images/sun3.gif">
+<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/OFlGR"></iframe>
 
-<img width=350 src="./assets/images/sun4.jpg"><img src="./assets/images/sun4.gif">
-
-<img width=350 src="./assets/images/sun5.jpg"><img src="./assets/images/sun5.gif">
-
-<img width=350 src="./assets/images/sun6.jpg"><img src="./assets/images/sun6.gif">
-
-## In-the-wild
+## Random
 
 <img width=640 src="./assets/images/wild0.png"/>
 
