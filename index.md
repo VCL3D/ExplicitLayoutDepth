@@ -53,4 +53,6 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/Iug1B+spin"></iframe>
 
-<img width=360 src="./assets/images/wild1.png"/>
+<img width=640 src="./assets/images/wild1.png"/>
+
+<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/hehIJ"></iframe>
