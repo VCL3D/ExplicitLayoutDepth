@@ -35,7 +35,9 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 ## Sun360
 
-<img width=350 src="./assets/images/sun1.jpg"><img src="./assets/images/sun1.gif">
+<img width=640 src="./assets/images/sun1.png">
+
+<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/VkKF0"></iframe>
 
 <img width=350 src="./assets/images/sun2.jpg"><img src="./assets/images/sun2.gif">
 
