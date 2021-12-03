@@ -49,7 +49,7 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 ## In-the-wild
 
-<img width=360 src="./assets/images/wild0.png"/>
+<img width=640 src="./assets/images/wild0.png"/>
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/Iug1B+spin"></iframe>
 
