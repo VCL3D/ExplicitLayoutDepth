@@ -21,7 +21,7 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 # Paper
 
-[![Paper pages](./assets/images/paper_image.jpg)](https://arxiv.org/pdf/XXXX.XXXXX.pdf)
+[![Paper pages](./assets/images/paper_image.png)](https://arxiv.org/pdf/XXXX.XXXXX.pdf)
 
 # Results
 
@@ -47,9 +47,11 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 <img width=350 src="./assets/images/sun6.jpg"><img src="./assets/images/sun6.gif">
 
-## Random
+## In-the-wild
 
-<img width=350 src="./assets/images/random1.jpg"/><img src="./assets/images/random1.gif"/>
+<img width=360 src="./assets/images/random1.jpg"/><img src="./assets/images/wild0.png"/>
+
+<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/Iug1B+spin"></iframe>
 
 <img width=350 src="./assets/images/random2.jpg"/><img src="./assets/images/random2.gif"/>
 
