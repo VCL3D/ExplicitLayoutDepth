@@ -21,7 +21,7 @@ More information can be found at [https://github.com/VCL3D/ExplicitLayoutDepth](
 
 # Paper
 
-[![Paper pages](./assets/images/paper_image.png)](https://arxiv.org/pdf/XXXX.XXXXX.pdf)
+[![Paper pages](./assets/images/paper_image.png)](https://arxiv.org/pdf/2206.11358.pdf)
 
 # Results
 
